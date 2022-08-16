@@ -7,8 +7,8 @@ This challenge involves in creating a search option that provides weather condit
 ![screenshot](/Assets/image/screenshot.PNG)
 
 # Link
-* GitHub Repository: 
-* Webpage: 
+* GitHub Repository: https://github.com/GraceShim/Weather-Dashboard.git
+* Webpage: https://graceshim.github.io/Weather-Dashboard/
 
 # Author
 * Grace D. Shim https://github.com/GraceShim
